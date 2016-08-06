@@ -1,0 +1,33 @@
+_repo: Four-Early-Pamphlets_10597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Godwin, William
+    alias: Baldwin, Edward
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '380'
+    url: http://www.gutenberg.org/2009/agents/380
+    wikipedia: http://en.wikipedia.org/wiki/William_Godwin
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Pamphlets'
+- GITenberg
+tableOfContents: 'A defense of the Rockingham party, in their late coalition with
+  the right honorable Frederic Lord North -- Instructions to a statesman, humbly inscribed
+  to the right honourable George Earl Temple -- An account of the seminary that will
+  be opened on Monday the fourth day of August, at Epsom in Surrey, for the instruction
+  of twelve pupils in the Greek, Latin, French, and English languages -- The herald
+  of literature; or, a review of the most considerable publications that will be made
+  in the course of the ensuing winter: with extracts.'
+title: Four Early Pamphlets
+url: http://www.gutenberg.org/ebooks/10597
